@@ -1,6 +1,6 @@
 # 📊 Product Sales Data Analysis & Visualization 
 
-
+![Image](https://github.com/user-attachments/assets/37d943e8-56b1-4e91-9b5f-8af5b0c2f799)
 
 ## 🧩 Project Overview
 The **Product Sales Data Analysis Project** explores over **200,000 sales records** to uncover performance trends, regional insights, and profitability patterns.  
