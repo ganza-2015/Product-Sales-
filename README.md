@@ -1,4 +1,4 @@
-# 📊 Product Sales Data Analysis & Visualization Project
+# 📊 Product Sales Data Analysis & Visualization 
 
 ## 🧩 Project Overview
 The **Product Sales Data Analysis Project** explores over **200,000 sales records** to uncover performance trends, regional insights, and profitability patterns.  
@@ -52,5 +52,5 @@ Data was cleaned, analyzed, and visualized using **Microsoft Excel** and **Power
 
 ---
 
-## 🗂️ Project Structure
+
 
