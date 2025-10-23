@@ -25,19 +25,6 @@ Data was cleaned, analyzed, and visualized using **Microsoft Excel** and **Power
 
 ---
 
-# 📊 PSDD1 Business Data Analysis Project  
-### **Excel | Power BI | Python | Data Visualization | Statistics**  
-By **Olori Ajie**
-
----
-
-## 📁 Project Overview  
-
-This project analyzes business performance using the **PSDD1 dataset**.  
-The goal is to uncover insights about **sales performance**, **product profitability**, **customer contributions**, and **regional trends** using **Excel**, **Python**, and **Power BI**.
-
----
-
 ## 🎯 Business Questions  
 
 1. 🏆 **Which region generates the highest revenue?**  
@@ -46,37 +33,6 @@ The goal is to uncover insights about **sales performance**, **product profitabi
 4. 👥 **Which customers contribute the most to total revenue?**
 
 ---
-
-## 🧾 Dataset Information  
-
-| Column Name | Description |
-|--------------|-------------|
-| **Order_Date** | Transaction date |
-| **Region** | Sales region |
-| **Category** | Product category |
-| **Sub_Category** | Product sub-category |
-| **Product_Name** | Product name |
-| **Customer_Name** | Customer name |
-| **Quantity** | Units sold |
-| **Revenue** | Total sales value |
-| **Profit** | Profit earned from each sale |
-
----
-
-## 🧠 Analysis Approach  
-
-The analysis was performed using **Python (pandas)** and visualized in **Power BI** for better insight presentation.  
-
-### ✅ Step 1 — Load and Clean Data  
-```python
-import pandas as pd
-
-# Load dataset
-df = pd.read_excel("PSDD1.xlsx", sheet_name="Dataset")
-
-# Clean column names
-df.columns = df.columns.str.strip()
-
 
 ## 📈 Key Insights
 - **Total Revenue:** ₦4.27 Billion (approx.)  
@@ -106,6 +62,8 @@ df.columns = df.columns.str.strip()
 - Jeffrey Smith  
 
 ---
+# Business Data Analysis Project  
+### **Excel | Power BI | Data Visualization | Statistics**  
 
 
 
